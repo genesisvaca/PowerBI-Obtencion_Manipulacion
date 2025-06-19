@@ -1,54 +1,49 @@
-# 📊 Power BI – Data Extraction and Manipulation Dashboard
+# Power BI - Data Extraction & Manipulation
 
-This repository contains a Power BI project focused on analyzing **production data** from multiple manufacturing lines and plants. It demonstrates data cleaning, aggregation, and visualization techniques for performance monitoring and operational decision-making.
+This project presents a complete Power BI dashboard developed as part of a learning module focused on data manipulation, visualization, and KPI tracking in a manufacturing context.
 
-## 📌 Project Overview
+## 📊 Overview
 
-The goal of this project was to **extract, manipulate, and visualize** production line data to provide insights into:
+The dataset used in this project simulates production data across multiple production lines and plants. The dashboard offers interactive visual insights on:
 
-- Production speed and volume
-- Performance metrics per plant and line
-- Downtime analysis and causes of failures
-- Month-over-month growth and efficiency trends
+- 📦 Total Units Produced by Plant, Line, and Month
+- 📈 Monthly Growth (%)
+- ⚙️ Average Production Speed
+- 🛠️ Number of Equipment Failures (Averías)
+- ⏱️ Execution Time and Full Performance Time
+- 🎯 Performance Objectives by Line
+- 📉 Downtime and Breakdown Analysis
 
-## 🧰 Tools Used
+## 🧰 Tools & Technologies
 
 - **Power BI Desktop**
-- **DAX**
-- **Data Modeling & Relationships**
-- **KPI and Dashboard Design**
+- DAX for calculated measures and KPIs
+- Data modeling and filtering with slicers and tables
+- Interactive visualizations (bar charts, tables, KPI cards)
 
-## 📈 Key Visuals and Metrics
+## 🔍 Key Insights
 
-- **Total Units Produced:** Monthly and cumulative breakdown
-- **Line & Plant Performance:** Speed, uptime, and full-performance percentages
-- **Failures Overview:** Number of breakdowns, percentage of time affected
-- **Growth Trends:** MoM production changes with visual indicators
-- **Targets vs Actuals:** Visual representation of production goals per line
-- **Performance by Line:** Speed comparison, output contribution, and growth
+- Breakdown of units produced by line and plant
+- Monthly performance trends including growth percentages
+- Plant-level breakdown of machine failures and downtime
+- % of Full Performance Time (Pleno Rendimiento) vs. Failures
+- Highlights on underperforming lines and improvement areas
 
-## 🔍 Insights & Observations
+## 📂 Files
 
-- Majority of the production (~85%) is concentrated in **Plant 1**
-- Notable efficiency with **~96% full performance** operation time
-- Breakdown events have been effectively categorized by month and line
-- Visualization includes a **clear MoM growth pattern**, assisting in strategic planning
+- `PowerBI-Obtencion_Manipulacion.pbix`: Power BI project file with full dashboard
+- `PowerBI-Obtencion_Manipulacion.pdf`: Exported dashboard preview
 
-## 📂 Files Included
+## 🚀 Getting Started
 
-- `PowerBI-Obtencion_Manipulacion.pbix`: Power BI file with the full dashboard and data model
-- `PowerBI-Obtencion_Manipulacion.pdf`: PDF export of the dashboard (for preview)
+To explore the dashboard:
 
-## 🚀 How to Use
+1. Download the `.pbix` file.
+2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop).
+3. Interact with filters and visuals to explore the data insights.
 
-1. Open the `.pbix` file in Power BI Desktop
-2. Explore the reports and interact with filters
-3. Use the model to experiment with additional visualizations or KPIs
+---
 
-## 💡 Possible Improvements
-
-- Include dynamic data sources or real-time streaming
-- Add drill-through pages for detailed failure causes or specific timeframes
-- Incorporate R/Python scripts for predictive maintenance
+Feel free to explore, fork the project, or suggest improvements! 🧠💡
 
 ---
