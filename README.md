@@ -2,6 +2,8 @@
 
 This project presents a complete Power BI dashboard developed as part of a learning module focused on data manipulation, visualization, and KPI tracking in a manufacturing context.
 
+[PowerBI Obtencion Manipulacion Preview](https://github.com/genesisvaca/PowerBI-Obtencion_Manipulacion/tree/main/preview)
+
 ## 📊 Overview
 
 The dataset used in this project simulates production data across multiple production lines and plants. The dashboard offers interactive visual insights on:
