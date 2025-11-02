@@ -1,51 +1,76 @@
-# Power BI - Data Extraction & Manipulation
+# 📊 Power BI – Data Extraction & Manipulation
 
-This project presents a complete Power BI dashboard developed as part of a learning module focused on data manipulation, visualization, and KPI tracking in a manufacturing context.
+This project showcases a **Power BI dashboard** designed to demonstrate skills in **data extraction, transformation, visualization, and KPI analysis** within a manufacturing context.
 
-[PowerBI Obtencion Manipulacion Preview](https://github.com/genesisvaca/PowerBI-Obtencion_Manipulacion/tree/main/preview)
+> *💡 The goal of this project is to provide a comprehensive overview of production performance through dynamic and interactive visuals.*
 
-## 📊 Overview
 
-The dataset used in this project simulates production data across multiple production lines and plants. The dashboard offers interactive visual insights on:
+## 🧩 Overview
 
-- 📦 Total Units Produced by Plant, Line, and Month
-- 📈 Monthly Growth (%)
-- ⚙️ Average Production Speed
-- 🛠️ Number of Equipment Failures (Averías)
-- ⏱️ Execution Time and Full Performance Time
-- 🎯 Performance Objectives by Line
-- 📉 Downtime and Breakdown Analysis
+The dataset simulates production operations across multiple **plants** and **lines**.  
+The dashboard delivers key insights into:
+
+- 📦 Total Units Produced by Plant, Line, and Month  
+- 📈 Monthly Growth (%) and Performance Trends  
+- ⚙️ Average Production Speed  
+- 🛠️ Equipment Failures & Downtime Analysis  
+- ⏱️ Execution vs. Full Performance Time  
+- 🎯 Efficiency and Line Objectives  
 
 ## 🧰 Tools & Technologies
 
 - **Power BI Desktop**
-- DAX for calculated measures and KPIs
-- Data modeling and filtering with slicers and tables
-- Interactive visualizations (bar charts, tables, KPI cards)
+- **DAX (Data Analysis Expressions)** for calculated measures and KPIs  
+- **Data Modeling** with relationships and hierarchies  
+- **Interactive Visuals:** slicers, cards, tables, and charts  
+- **Custom Measures:** conditional, comparative, procedural, and KPI-based  
 
 ## 🔍 Key Insights
 
-- Breakdown of units produced by line and plant
-- Monthly performance trends including growth percentages
-- Plant-level breakdown of machine failures and downtime
-- % of Full Performance Time (Pleno Rendimiento) vs. Failures
-- Highlights on underperforming lines and improvement areas
+- Comprehensive view of **production efficiency** and **line performance**  
+- Clear identification of **bottlenecks** and **downtime causes**  
+- Visual representation of **KPI achievements** and **growth evolution**  
+- Focus on **data-driven decision-making** through comparative and conditional measures  
 
-## 📂 Files
+## 🖼️ Visual Showcase
 
-- `PowerBI-Obtencion_Manipulacion.pbix`: Power BI project file with full dashboard
-- `PowerBI-Obtencion_Manipulacion.pdf`: Exported dashboard preview
+Below are selected previews from the dashboard (click to enlarge):
 
-## 🚀 Getting Started
+| Dashboard Preview | Analysis Views |
+|--------------------|----------------|
+| ![Dashboard](preview/Dashboard.JPG) | ![Failure Analysis](preview/Analisis_Averia.JPG) |
+| ![Basic Measures](preview/Medidas_Basicas.JPG) | ![Comparative Measures](preview/Medidas_Comparativas.JPG) |
+| ![Conditional Measures](preview/Medidas_Condicionales.JPG) | ![Procedural Measures](preview/Medidas_Procedurales.JPG) |
 
-To explore the dashboard:
+> 📁 *See all visuals in the* [**preview folder**](https://github.com/genesisvaca/PowerBI-Obtencion_Manipulacion/tree/main/preview)
 
-1. Download the `.pbix` file.
-2. Open it using [Power BI Desktop](https://powerbi.microsoft.com/desktop).
-3. Interact with filters and visuals to explore the data insights.
 
----
+## 📂 Repository Structure
+```
+PowerBI-Obtencion_Manipulacion/
+│
+├── preview/ # Dashboard preview images
+│ ├── Dashboard.JPG
+│ ├── Analisis_Averia.JPG
+│ ├── Medidas_Basicas.JPG
+│ ├── Medidas_Comparativas.JPG
+│ ├── Medidas_Condicionales.JPG
+│ └── Medidas_Procedurales.JPG
+│
+├── PowerBI-Obtencion_Manipulacion.pbix # Main Power BI project file
+└── README.md # Project documentation
+```
 
-Feel free to explore, fork the project, or suggest improvements! 🧠💡
+## 🚀 How to Use
 
----
+1. **Download** the `.pbix` file.  
+2. **Open** it with [Power BI Desktop](https://powerbi.microsoft.com/desktop).  
+3. **Explore** the dashboard using filters and visuals.  
+4. **Analyze** KPI trends and identify performance insights.
+
+## 🌟 Author
+
+**👩‍💻 Génesis Vaca Palma**  
+📍  Data & Analytics Student — Madrid, Spain  
+📧 [genesisvacapalma@gmail.com](mailto:genesisvacapalma@gmail.com)  
+🔗 [LinkedIn](https://www.linkedin.com/in/genesisvaca/)  
