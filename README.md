@@ -11,6 +11,19 @@
 
 This project showcases a **Power BI dashboard** designed to demonstrate skills in **data extraction, transformation, visualization, and KPI analysis** within a manufacturing context.
 
+<p align="center">
+  <img src="preview/Dashboard.JPG" alt="Preview of Power BI Manufacturing Dashboard" width="1060">
+  <br>
+  <em>📊 A dynamic Power BI dashboard showcasing production insights and KPIs (2024) 📊</em>
+</p>
+
+<p align="center">
+  <a href="https://github.com/genesisvaca/PowerBI-Obtencion_Manipulacion/tree/main/preview">
+    🔗 View All Previews
+  </a>
+</p>
+
+
 > *💡 The goal of this project is to provide a comprehensive overview of production performance through dynamic and interactive visuals.*
 
 
