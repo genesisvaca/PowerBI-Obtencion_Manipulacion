@@ -1,5 +1,14 @@
 # 📊 Power BI – Data Extraction & Manipulation
 
+<p align="center">
+  <img src="https://img.shields.io/badge/Project-Power%20BI%20Dashboard-4C6EF5?style=for-the-badge&logo=powerbi&logoColor=white" alt="Project Badge">
+  <img src="https://img.shields.io/badge/Tool-Microsoft%20Power%20BI-F2C94C?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI Badge">
+  <img src="https://img.shields.io/badge/Focus-Data%20Modeling%20%7C%20Visualization-6C757D?style=for-the-badge" alt="Focus Badge">
+  <img src="https://img.shields.io/badge/Language-DAX%20%26%20M%20Query-2B2D42?style=for-the-badge" alt="Language Badge">
+  <img src="https://img.shields.io/badge/Type-Business%20Intelligence-5E60CE?style=for-the-badge" alt="Type Badge">
+  <img src="https://img.shields.io/badge/Status-Completed-84A59D?style=for-the-badge" alt="Status Badge">
+</p>
+
 This project showcases a **Power BI dashboard** designed to demonstrate skills in **data extraction, transformation, visualization, and KPI analysis** within a manufacturing context.
 
 > *💡 The goal of this project is to provide a comprehensive overview of production performance through dynamic and interactive visuals.*
